@@ -9,9 +9,9 @@
     <title><?= $page_title; ?></title>
 
     <!-- META KEYWORDS AND DESCRIPTION -->
-    <meta name="keywords" content="HTML5 Template, one page template, leanding page, themeforest template, ckavart, ckav, template, multipurpose template" />
-    <meta name="description" content="Blon - Personal Portfolio Template">
-    <meta name="author" content="CKav">
+    <meta name="keywords" content="Godson Pius, Godson Azubuike, Godson, Pius, Azubuike, Musician, Gospel Artist, Artist, Gospel, Christian, Melody, Songs, Deeper Dimensions, Portfolio, World Brain Technology Limited, World, Brain, Technology, Limited" />
+    <meta name="description" content="This is Godson Pius website. Get his songs and ministrations from here.">
+    <meta name="author" content="World Brain Technology Limited">
 
     <!-- META VIEW PORT -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">

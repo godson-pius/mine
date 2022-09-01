@@ -1,10 +1,14 @@
 <?php
 session_start();
 
+// define('HOST', 'localhost');
+// define('USERNAME', 'root');
+// define('PASSWORD', '');
+// define('DBNAME', 'godsonpius');
 define('HOST', 'localhost');
-define('USERNAME', 'root');
-define('PASSWORD', '');
-define('DBNAME', 'godsonpius');
+define('USERNAME', 'worlgmig_godsonpius');
+define('PASSWORD', '100%godsonpius');
+define('DBNAME', 'worlgmig_godsonpius');
 
 $link = mysqli_connect(HOST, USERNAME, PASSWORD, DBNAME);
 
